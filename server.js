@@ -71,4 +71,4 @@ app.get('/api/predict/:fixtureId', async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`🚀 API Football en ligne sur le port ${PORT}`);
-});ajout de server.js pour l api
+});
